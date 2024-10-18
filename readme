@@ -1,0 +1,11 @@
+For termux
+
+pkg update
+pkg install chromium
+
+
+
+pkg install python
+pip install undetected-chromedriver selenium colorama webdriver_manager
+
+
